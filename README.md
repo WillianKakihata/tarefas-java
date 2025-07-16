@@ -1,4 +1,4 @@
-# 2bmTopicosProgramacao7s Projeto (backend)
+# Tarefas Projeto (backend)
 
 ## Como rodar a aplicação
 
