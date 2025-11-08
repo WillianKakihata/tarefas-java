@@ -1,11 +1,11 @@
-package com.example.bmTopicosProgramacao7s.auth.controller;
+package com.example.bm_topicos_programacao7s.auth.controller;
 
-import com.example.bmTopicosProgramacao7s.auth.dto.AuthDTO;
-import com.example.bmTopicosProgramacao7s.auth.dto.LoginResponseDTO;
-import com.example.bmTopicosProgramacao7s.auth.dto.RegisterDTO;
-import com.example.bmTopicosProgramacao7s.auth.model.User;
-import com.example.bmTopicosProgramacao7s.auth.repository.UserRepository;
-import com.example.bmTopicosProgramacao7s.auth.service.TokenService;
+import com.example.bm_topicos_programacao7s.auth.dto.AuthDTO;
+import com.example.bm_topicos_programacao7s.auth.dto.LoginResponseDTO;
+import com.example.bm_topicos_programacao7s.auth.dto.RegisterDTO;
+import com.example.bm_topicos_programacao7s.auth.model.User;
+import com.example.bm_topicos_programacao7s.auth.repository.UserRepository;
+import com.example.bm_topicos_programacao7s.auth.service.TokenService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

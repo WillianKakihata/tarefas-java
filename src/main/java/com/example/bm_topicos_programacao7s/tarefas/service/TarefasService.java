@@ -1,7 +1,7 @@
-package com.example.bmTopicosProgramacao7s.tarefas.service;
-import com.example.bmTopicosProgramacao7s.tarefas.dto.TarefasDTO;
-import com.example.bmTopicosProgramacao7s.tarefas.model.Tarefas;
-import com.example.bmTopicosProgramacao7s.tarefas.repository.TarefasRepository;
+package com.example.bm_topicos_programacao7s.tarefas.service;
+import com.example.bm_topicos_programacao7s.tarefas.dto.TarefasDTO;
+import com.example.bm_topicos_programacao7s.tarefas.model.Tarefas;
+import com.example.bm_topicos_programacao7s.tarefas.repository.TarefasRepository;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.TypeToken;
 import org.springframework.beans.factory.annotation.Autowired;

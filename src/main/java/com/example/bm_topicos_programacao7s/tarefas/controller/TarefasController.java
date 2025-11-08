@@ -1,7 +1,7 @@
-package com.example.bmTopicosProgramacao7s.tarefas.controller;
+package com.example.bm_topicos_programacao7s.tarefas.controller;
 
-import com.example.bmTopicosProgramacao7s.tarefas.dto.TarefasDTO;
-import com.example.bmTopicosProgramacao7s.tarefas.service.TarefasService;
+import com.example.bm_topicos_programacao7s.tarefas.dto.TarefasDTO;
+import com.example.bm_topicos_programacao7s.tarefas.service.TarefasService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.example.bmTopicosProgramacao7s.tarefas.enuns;
+package com.example.bm_topicos_programacao7s.tarefas.enuns;
 
 public enum StatusEnum {
     EM_PROCESSO(0),

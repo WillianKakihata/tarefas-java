@@ -1,4 +1,4 @@
-package com.example.bmTopicosProgramacao7s.config;
+package com.example.bm_topicos_programacao7s.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

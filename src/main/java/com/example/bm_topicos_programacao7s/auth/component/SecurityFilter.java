@@ -1,8 +1,8 @@
-package com.example.bmTopicosProgramacao7s.auth.component;
+package com.example.bm_topicos_programacao7s.auth.component;
 
 
-import com.example.bmTopicosProgramacao7s.auth.repository.UserRepository;
-import com.example.bmTopicosProgramacao7s.auth.service.TokenService;
+import com.example.bm_topicos_programacao7s.auth.repository.UserRepository;
+import com.example.bm_topicos_programacao7s.auth.service.TokenService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

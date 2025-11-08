@@ -1,6 +1,6 @@
-package com.example.bmTopicosProgramacao7s.tarefas.repository;
+package com.example.bm_topicos_programacao7s.tarefas.repository;
 
-import com.example.bmTopicosProgramacao7s.tarefas.model.Tarefas;
+import com.example.bm_topicos_programacao7s.tarefas.model.Tarefas;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

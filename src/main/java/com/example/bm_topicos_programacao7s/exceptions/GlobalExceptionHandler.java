@@ -1,4 +1,4 @@
-package com.example.bmTopicosProgramacao7s.exceptions;
+package com.example.bm_topicos_programacao7s.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

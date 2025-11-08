@@ -1,6 +1,6 @@
-package com.example.bmTopicosProgramacao7s.auth.model;
+package com.example.bm_topicos_programacao7s.auth.model;
 
-import com.example.bmTopicosProgramacao7s.auth.enuns.UserRoleEnum;
+import com.example.bm_topicos_programacao7s.auth.enuns.UserRoleEnum;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

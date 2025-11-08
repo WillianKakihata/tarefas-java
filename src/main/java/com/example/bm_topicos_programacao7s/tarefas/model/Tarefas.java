@@ -1,5 +1,5 @@
-package com.example.bmTopicosProgramacao7s.tarefas.model;
-import com.example.bmTopicosProgramacao7s.tarefas.enuns.StatusEnum;
+package com.example.bm_topicos_programacao7s.tarefas.model;
+import com.example.bm_topicos_programacao7s.tarefas.enuns.StatusEnum;
 import jakarta.persistence.*;
 import lombok.*;
 

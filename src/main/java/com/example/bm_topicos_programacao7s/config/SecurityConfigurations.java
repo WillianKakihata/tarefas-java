@@ -1,6 +1,6 @@
-package com.example.bmTopicosProgramacao7s.config;
+package com.example.bm_topicos_programacao7s.config;
 
-import com.example.bmTopicosProgramacao7s.auth.component.SecurityFilter;
+import com.example.bm_topicos_programacao7s.auth.component.SecurityFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

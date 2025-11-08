@@ -1,4 +1,5 @@
 package com.example.bm_topicos_programacao7s;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

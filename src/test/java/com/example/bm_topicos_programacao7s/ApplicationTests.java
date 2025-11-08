@@ -1,4 +1,4 @@
-package com.example.bmTopicosProgramacao7s;
+package com.example.bm_topicos_programacao7s;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

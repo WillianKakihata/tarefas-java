@@ -1,6 +1,6 @@
-package com.example.bmTopicosProgramacao7s.auth.service;
+package com.example.bm_topicos_programacao7s.auth.service;
 
-import com.example.bmTopicosProgramacao7s.auth.repository.UserRepository;
+import com.example.bm_topicos_programacao7s.auth.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
